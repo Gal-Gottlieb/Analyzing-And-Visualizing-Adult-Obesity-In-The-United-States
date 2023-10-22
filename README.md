@@ -20,7 +20,7 @@ https://public.tableau.com/en-us/s/resources
 
 
 Project goals include identifying factors associated with adult obesity in the United States and offering suggestions on how to address it to authorities like the federal,
-state, and local goverments.
+state, and local governments.
 
 The project was done to help officials such as James, Governor of California, find out which factors are responsible for the high adult obesity levels, so he could take
 measures to reduce the obesity rate among adults.
@@ -48,17 +48,8 @@ Here are the chapters of the story I created:
 
 5- Factors That Contribute To Adult Obesity
 
-6- Analysis Top Adult Obesity States In Each Region
+6- Analysis of Top Adult Obesity States In Each Region
 
 7- Conclusion And Recommendations
 
 8- Methodology and a description of the measures in the data set.
-
-
-
-
-Here is a link to a visualization in my Tableau Public profile:
-https://public.tableau.com/views/AdultobesityrateintheUnitedStates-new/AdultObesityintheUnitedStates?:language=en-US&:display_count=n&:origin=viz_share_link
-
-A phone-friendly version of the project has also been made for the convenience of phone users - here is its link:
-https://public.tableau.com/views/AdultObesityrateintheUnitedStates-Phoneversion/Phoneversion?:language=en-US&:display_count=n&:origin=viz_share_link
